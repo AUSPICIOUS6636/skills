@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cat Crayon Hand-Drawn I2I"
+  short_description: "将猫咪照片转换为忠实保留姿态与花纹的蜡笔手绘"
+  default_prompt: "Use $cat-crayon-handdrawn-i2i to convert this cat photo into a faithful low-realism hand-drawn crayon illustration with the locked stroke style and airy paper gaps."
