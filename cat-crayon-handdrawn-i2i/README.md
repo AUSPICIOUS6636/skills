@@ -106,19 +106,19 @@ No style reference may supply factual pose, anatomy, color, markings, expression
 This skill was inspired by Beike, my dear friend in real life, while its visual style was inspired by a portrait image-to-image prompt shared by a RedNote creator. The cat-specific preservation rules, pose-lock strategy, anti-hallucination constraints, and detail-control workflow were developed specifically for this skill.<br>
 本技能的创作灵感来源于我现实生活中的密友贝壳，视觉风格则受到一位小红书创作者分享的人像图生图提示词启发。针对猫咪特征保留、姿态锁定、避免肢体臆造及细节控制的工作流程，均为本技能专门设计。
 
-- RedNote creator ID: `1550311333`
-- [Original RedNote post](https://xhslink.com/m/2Rim6dZ7dCP)小红书原帖
-- [Repository maintainer](https://github.com/Vieeeeeee)小红书作者GitHub
+- RedNote creator ID: `1550311333` 小红书作者ID
+- [Original RedNote post](https://xhslink.com/m/2Rim6dZ7dCP) 小红书原帖
+- [Repository maintainer](https://github.com/Vieeeeeee) 小红书作者GitHub
 
 
 ## 📜 License | 许可证
 The skill instructions and metadata are licensed under the MIT License. See [LICENSE](../LICENSE) for details.<br>
 本技能的说明文件与元数据采用 MIT 许可证发布，详情请参阅 [LICENSE](../LICENSE)。
 
-Third-party reference images and materials are excluded from the MIT License unless otherwise stated.
+Third-party reference images and materials are excluded from the MIT License unless otherwise stated.<br>
 除非另有说明，第三方参考图片及素材不包含在 MIT 许可范围内。
 
 
 ## 🙋 Author | 作者说明
-Personal open-source skill sharing for learning and communication only.
+Personal open-source skill sharing for learning and communication only.<br>
 个人开源技能分享，仅用于学习交流。
